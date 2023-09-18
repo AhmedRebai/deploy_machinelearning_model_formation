@@ -1,1 +1,1 @@
-# deploy_machinelearning_model_formation
+# deploy machinelearning model training session
